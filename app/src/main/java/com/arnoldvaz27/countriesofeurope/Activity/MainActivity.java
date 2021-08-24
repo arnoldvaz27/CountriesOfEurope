@@ -1,4 +1,4 @@
-package com.arnold.countriesofeurope.Activity;
+package com.arnoldvaz27.countriesofeurope.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -20,12 +20,12 @@ import android.widget.Toast;
 import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.toolbox.JsonArrayRequest;
-import com.arnold.countriesofeurope.Adapter.CountryAdapter;
-import com.arnold.countriesofeurope.JavaClasses.MySingleton;
-import com.arnold.countriesofeurope.R;
-import com.arnold.countriesofeurope.database.CountryDatabase;
-import com.arnold.countriesofeurope.entites.Country;
-import com.arnold.countriesofeurope.listeners.CountryListeners;
+import com.arnoldvaz27.countriesofeurope.Adapter.CountryAdapter;
+import com.arnoldvaz27.countriesofeurope.JavaClasses.MySingleton;
+import com.arnoldvaz27.countriesofeurope.Activity.R;
+import com.arnoldvaz27.countriesofeurope.database.CountryDatabase;
+import com.arnoldvaz27.countriesofeurope.entites.Country;
+import com.arnoldvaz27.countriesofeurope.listeners.CountryListeners;
 
 import org.json.JSONArray;
 import org.json.JSONException;

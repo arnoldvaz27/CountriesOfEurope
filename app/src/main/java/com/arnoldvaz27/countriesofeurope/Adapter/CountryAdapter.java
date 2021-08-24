@@ -1,4 +1,4 @@
-package com.arnold.countriesofeurope.Adapter;
+package com.arnoldvaz27.countriesofeurope.Adapter;
 
 import android.annotation.SuppressLint;
 import android.view.LayoutInflater;
@@ -11,10 +11,10 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.arnold.countriesofeurope.R;
-import com.arnold.countriesofeurope.JavaClasses.ImageFetch;
-import com.arnold.countriesofeurope.entites.Country;
-import com.arnold.countriesofeurope.listeners.CountryListeners;
+import com.arnoldvaz27.countriesofeurope.Activity.R;
+import com.arnoldvaz27.countriesofeurope.JavaClasses.ImageFetch;
+import com.arnoldvaz27.countriesofeurope.entites.Country;
+import com.arnoldvaz27.countriesofeurope.listeners.CountryListeners;
 
 import java.util.List;
 
